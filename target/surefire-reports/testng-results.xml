@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="testPackage.NewTest" duration-ms="11403" started-at="2018-02-26T01:36:33Z" finished-at="2018-02-26T01:36:45Z">
+  <suite name="Suite" duration-ms="10137" started-at="2018-03-04T00:23:01Z" finished-at="2018-03-04T00:23:11Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="11403" started-at="2018-02-26T01:36:33Z" finished-at="2018-02-26T01:36:45Z">
+    <test name="Test" duration-ms="10137" started-at="2018-03-04T00:23:01Z" finished-at="2018-03-04T00:23:11Z">
       <class name="testPackage.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPackage.NewTest@13fee20c]" name="beforeTest" is-config="true" duration-ms="7726" started-at="2018-02-26T01:36:33Z" finished-at="2018-02-26T01:36:41Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPackage.NewTest@614c5515]" name="beforeTest" is-config="true" duration-ms="6807" started-at="2018-03-04T00:23:01Z" finished-at="2018-03-04T00:23:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="mavenTest()[pri:0, instance:testPackage.NewTest@13fee20c]" name="mavenTest" duration-ms="2941" started-at="2018-02-26T01:36:41Z" finished-at="2018-02-26T01:36:44Z">
+        <test-method status="PASS" signature="mavenTest()[pri:0, instance:testPackage.NewTest@614c5515]" name="mavenTest" duration-ms="2686" started-at="2018-03-04T00:23:07Z" finished-at="2018-03-04T00:23:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mavenTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPackage.NewTest@13fee20c]" name="afterTest" is-config="true" duration-ms="707" started-at="2018-02-26T01:36:44Z" finished-at="2018-02-26T01:36:45Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPackage.NewTest@614c5515]" name="afterTest" is-config="true" duration-ms="626" started-at="2018-03-04T00:23:10Z" finished-at="2018-03-04T00:23:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testPackage.NewTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- testPackage.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

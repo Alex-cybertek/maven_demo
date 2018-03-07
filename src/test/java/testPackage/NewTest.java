@@ -28,7 +28,7 @@ public class NewTest {
 	  
 		driver=new ChromeDriver();		
 		driver.get("http://google.com");
-  
+		System.out.println("SetUp script for running");
   }
 
   @AfterTest

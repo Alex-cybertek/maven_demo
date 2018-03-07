@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9614" started-at="2018-02-26T00:37:07Z" finished-at="2018-02-26T00:37:16Z">
+  <suite name="Default suite" duration-ms="9603" started-at="2018-03-03T22:51:35Z" finished-at="2018-03-03T22:51:45Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9614" started-at="2018-02-26T00:37:07Z" finished-at="2018-02-26T00:37:16Z">
+    <test name="Default test" duration-ms="9603" started-at="2018-03-03T22:51:35Z" finished-at="2018-03-03T22:51:45Z">
       <class name="testPackage.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="beforeTest" is-config="true" duration-ms="6622" started-at="2018-02-26T00:37:07Z" finished-at="2018-02-26T00:37:13Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="beforeTest" is-config="true" duration-ms="6921" started-at="2018-03-03T22:51:35Z" finished-at="2018-03-03T22:51:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="mavenTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="mavenTest" duration-ms="2267" started-at="2018-02-26T00:37:13Z" finished-at="2018-02-26T00:37:16Z">
+        <test-method status="PASS" signature="mavenTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="mavenTest" duration-ms="1868" started-at="2018-03-03T22:51:42Z" finished-at="2018-03-03T22:51:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mavenTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="afterTest" is-config="true" duration-ms="677" started-at="2018-02-26T00:37:16Z" finished-at="2018-02-26T00:37:16Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPackage.NewTest@1e88b3c]" name="afterTest" is-config="true" duration-ms="782" started-at="2018-03-03T22:51:44Z" finished-at="2018-03-03T22:51:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- testPackage.NewTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
